@@ -26,7 +26,7 @@ SECRET_KEY = '@y1w!(=i@5s84-%j%zjz1kv(-!+a2=bbu^b3@wmxro7rbi1^ni'
 DEBUG = False
 
 # STATIC_URL = '/static/'
-ALLOWED_HOSTS = ['127.0.0.1','localhost','.lhyaiwh.online']
+ALLOWED_HOSTS = ['127.0.0.1','localhost','.lhyaiwh.top']
 
 
 # Application definition
